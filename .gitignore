@@ -1,0 +1,5 @@
+# hasil kompilasi Arduino
+build/
+
+# metadata macOS
+.DS_Store
